@@ -2,6 +2,7 @@
 
 1. Технические характерисктики:
    - Kotlin
+   - Google Firebase
 #
   
 2. Конфигурация Android Studio:
